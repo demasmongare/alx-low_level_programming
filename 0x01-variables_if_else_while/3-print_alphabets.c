@@ -6,10 +6,6 @@
  *
  * Return: Always 0 (Success)
  */
-
-/* function prototype */
-/* extern int putchar(int ch);*/
-
 int main(void)
 {
 	/* variable declaration */
