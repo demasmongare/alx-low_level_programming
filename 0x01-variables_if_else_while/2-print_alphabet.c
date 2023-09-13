@@ -11,7 +11,7 @@ int main(void)
 	/* variable initialisation*/
 	char ch = 'a';
 
-	while (ch < 'z')
+	while (ch <= 'z')
 	{
 		printf("%c", ch);
 		ch++;
