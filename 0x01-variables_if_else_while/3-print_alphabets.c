@@ -8,7 +8,7 @@
  */
 
 /* function prototype */
-extern int putchar(int ch);
+/* extern int putchar(int ch);*/
 
 int main(void)
 {
