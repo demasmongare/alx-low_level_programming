@@ -10,7 +10,7 @@ void print_rev(char *s)
 {
 	int i;
 
-	if (s[i] == '\0')
+	if (s[i] == EOF)
 	{
 		while (s[i] >= 0)
 		{
